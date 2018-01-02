@@ -14,8 +14,7 @@ public class EmployeeRESTController {
     {
         EmployeeList employees = new EmployeeList();
          
-        Employee empOne = new Employee(1,"Yuan","Lin","linyuan1979@gmail.com");
-        Employee empTwo = new Employee(2,"Zhaoyue","Wang","zhaoyuewang@gmail.com");
+        Employee empOne = new Employee(1,"firstName","lastName","test@gmail.com");
         Employee empThree = new Employee(3,"Ole","Nordmann","olenordmann@gmail.com");
          
          
